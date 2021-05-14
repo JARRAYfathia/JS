@@ -1,0 +1,13 @@
+.App{
+  background-color:rgb(252, 247, 251);
+  color: black;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+ 
+}
+h2{
+  color: rgb(71, 11, 11);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  size: 255px;
+  text-align: center;
+  text-shadow: 2px 2px;
+}
